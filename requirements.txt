@@ -1,0 +1,8 @@
+# PySide6 pulls in PySide6-Addons automatically, which includes
+# QtWebEngine (used for the embedded itch.io login) — nothing extra to
+# install for that.
+PySide6>=6.7
+requests>=2.31
+cryptography>=42.0
+pypresence>=4.3
+pyinstaller>=6.6
